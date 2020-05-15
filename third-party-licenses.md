@@ -1,6 +1,6 @@
 # Third-Party Software License Agreements
 
-*Last Updated April 24, 2020*
+*Last Updated May 15, 2020*
 
 Third-party software was used in the creation of mandatly. All third-party software has been used in accordance with the terms and conditions for use, reproduction, and distribution as defined by the applicable license agreements.
 
